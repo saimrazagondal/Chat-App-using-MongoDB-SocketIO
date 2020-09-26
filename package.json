@@ -1,0 +1,24 @@
+{
+  "name": "chat-app-using-mongodb-socketio",
+  "version": "1.0.0",
+  "description": "chat app using mongo and socket io",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saimrazagondal/Chat-App-using-MongoDB-SocketIO.git"
+  },
+  "author": "Saim Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saimrazagondal/Chat-App-using-MongoDB-SocketIO/issues"
+  },
+  "homepage": "https://github.com/saimrazagondal/Chat-App-using-MongoDB-SocketIO#readme",
+  "dependencies": {
+    "mongodb": "^3.6.2",
+    "nodemon": "^2.0.4",
+    "socket.io": "^2.3.0"
+  }
+}
